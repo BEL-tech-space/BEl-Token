@@ -1,0 +1,20 @@
+{
+  "name": "BEL Tech",
+  "symbol": "BEL",
+  "description": "BEL Tech ecosystem is a recycle to earn system",
+  "image": "https://ipfs.io/ipfs/QmNtm8yjmnnKauMzcYdsZw5JP7nhK939L9RrQhCUJvMEUk?filename=20240321_174149.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Technology"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/QmNtm8yjmnnKauMzcYdsZw5JP7nhK939L9RrQhCUJvMEUk?filename=20240321_174149.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
